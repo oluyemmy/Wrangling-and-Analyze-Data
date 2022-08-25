@@ -5,10 +5,15 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 ## Project Steps Overview
 **Step 1**: Gathering data 
+
 **Step 2**: Assessing data 
+
 **Step 3**: Cleaning data 
+
 **Step 4**: Storing data 
+
 **Step 5**: Analyzing, and Visualizing data 
+
 **Step 6**: Reporting 
 > * data wrangling efforts
 > * data analyses and visualizations
